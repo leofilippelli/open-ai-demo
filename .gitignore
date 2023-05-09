@@ -1,0 +1,12 @@
+.vs
+.vscode
+**/obj
+**/bin
+.idea
+
+.DS_Store
+
+*.user
+**/*.lutconfig
+**/*.trx
+**/*/TestResults/coverage
